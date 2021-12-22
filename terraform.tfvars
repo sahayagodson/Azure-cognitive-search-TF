@@ -1,0 +1,6 @@
+resource_group          = "My_Terraform_RG"
+location                = "West Europe"
+search_name             = "my-searchplan"
+sku                     = "standard"
+replica_count           = "1"
+partition_count         = "1"
